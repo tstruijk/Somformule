@@ -1,0 +1,6 @@
+{
+  "name": "somformule",
+  "description": "Een interactieve rekenhulp en oefenomgeving voor de somformule, eindwaarde en contante waarde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
